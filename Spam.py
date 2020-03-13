@@ -716,8 +716,8 @@ except ImportError:
 	
 if __name__ == '__main__':
 	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
-	sleep(0.001)
+	sleep(2)
 	os.system('clear')
 	os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
-	sleep(0.001)
+	sleep(7)
 	Spam()
